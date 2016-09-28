@@ -1,2 +1,0 @@
-# Scuola
-Prova GitHub scuola
